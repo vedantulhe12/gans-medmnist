@@ -26,13 +26,13 @@ Each GAN model is trained for at least 50 epochs with the following hyperparamet
 ## Results
 ### Generated Images
 LS-GAN:
-![LS-GAN](https://github.com/samisafk/GAN-Mednist/blob/main/generated/LS-GAN_epoch_49.png)
+![LS-GAN](https://github.com/vedantulhe12/GAN-Mednist/blob/main/generated/LS-GAN_epoch_49.png)
 
 WGAN:
-![WGAN](https://github.com/samisafk/GAN-Mednist/blob/main/generated/WGAN_epoch_49.png)
+![WGAN](https://github.com/vedantulhe12/GAN-Mednist/blob/main/generated/WGAN_epoch_49.png)
 
 WGAN-GP:
-![WGAN-GP](https://github.com/samisafk/GAN-Mednist/blob/main/generated/WGAN-GP_epoch_49.png)
+![WGAN-GP](https://github.com/vedantulhe12/GAN-Mednist/blob/main/generated/WGAN-GP_epoch_49.png)
 
 ### Quantitative Evaluation
 | Model   | Inception Score | FID  |
